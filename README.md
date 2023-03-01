@@ -1,14 +1,21 @@
 # Phillipe Barreto
 ## Part 1: Directions on Using Webstorm
-1.
-2.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Install Webstorm and gain a license at https://www.jetbrains.com/community/education/#students
+2. Install Git if needed, download at https://git-scm.com/downloads
+3. Create a Github account at https://github.com/join
+4. Connect Github to Webstorm: Go to system preferences in Webstorm and select Version control Git, then enter the path to git.exe if needed
+5. Add Github password to Webstorm: Again go to system preferences, then scroll to System Settings -> Passwords
+6. Create a Repository on Github, there will be a + symbol on the top right corner, then choose Create new Repository
+7. Once set up, crease a readme file after setting the repository to public
+8. Copy(clone) the repository into Webstorm through VCS on project page
+
+### Steps to add files to Git
+1. Add information to a file, possibly create a new file
+2. Click "Add" on the Add to Git dialog box
+3. Commit any changes made. Be sure to add a message
+4. Push Changes to the remote repository
+5. The new files/information is now on Github!
+
 
 
 
